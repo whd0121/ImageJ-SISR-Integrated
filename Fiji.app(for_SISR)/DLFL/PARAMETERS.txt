@@ -1,0 +1,11 @@
+output_model_dir = C:\Users\wangh\Desktop\test-model\
+mse_weight = 0.001
+batch_size = 24
+learning_rate_g = 0.0001
+valid_image_dir = C:\Users\wangh\Desktop\3\
+num_gen = 1
+train_image_dir = C:\Users\wangh\Desktop\3\
+learning_rate_d = 0.00001
+block_size = 64
+num_epochs = 5000
+ssim_weight = 1
